@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Azad Maloth</h1>
+<h1 align="center">Hi 👋, I'm Azad Maloth 😎 </h1>
 <h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Entry+Level+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
+* 📚 Pursuing Computer Science & Engineering Specialised In AI & ML at KPRIT College of Engineering
 * 🔭 I’m currently working on **AI Development Projects**
-* 🌱 I’m learning **JavaScript, React, Python**
+* 🌱 I’m learning **Java, React, Python**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **AI Development & Programming**
 
