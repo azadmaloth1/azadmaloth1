@@ -1,7 +1,20 @@
-## Hi, I'm Azad Maloth 😎
+<h1 align="center">Hi 👋, I'm Azad Maloth</h1>
+<h3 align="center">🚀 Passionate Developer | Open Source Enthusiast | Lifelong Learner</h3>
 
-🧠 Computer Science Student at KPRIT College of Engineering
-🧠 Specialised in AI&ML
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🔭 I’m currently working on **AI Development Projects**
+* 🌱 I’m learning **JavaScript, React, Python**
+* 👯 I’m looking to collaborate on **Open Source Projects**
+* 💬 Ask me about **AI Development & Programming**
+
+---
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1DPjqBJvCw/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/runnerazaddd____?igsh=MWI1djY3OTd4eWhzMA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/azadmaloth?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azadmaloth436@gmail.com) 
