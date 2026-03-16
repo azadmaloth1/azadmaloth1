@@ -11,7 +11,7 @@
 
 * 📚 Pursuing Computer Science & Engineering Specialised In AI & ML at KPRIT College of Engineering
 * 🔭 I’m currently working on **AI Development Projects**
-* 🌱 I’m learning **Java, React, Python**
+* 🌱 I’m learning **Java, C, Python**
 * 👯 I’m looking to collaborate on **Open Source Projects**
 * 💬 Ask me about **AI Development & Programming**
 
@@ -32,5 +32,19 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=azadmaloth-ig&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/azadmaloth?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a> •
+<a href="https://www.instagram.com/runnerazaddd____?igsh=MWI1djY3OTd4eWhzMA==">Instagram</a> •
+<a href="https://www.facebook.com/share/1DPjqBJvCw/?mibextid=wwXIfr">Facebook</a>
+</p>
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
